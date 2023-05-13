@@ -1,0 +1,14 @@
+.header-items {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.item1 {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.item2 {
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-left: 10px;
+}
